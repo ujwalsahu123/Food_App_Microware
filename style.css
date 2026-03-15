@@ -72,8 +72,8 @@ aside {
     left: 0;
     width: 320px;
     height: 100vh;
-    background-color: #e6f3ff;
-    border-right: 1px solid #b3d9ff;
+    background-color: #fce4ec;
+    border-right: 1px solid #f8bbd9;
     overflow-y: auto;
     transform: translateX(-100%);
     transition: transform 0.3s ease;
@@ -93,7 +93,7 @@ aside:not(.hidden) {
     border: none;
     font-size: 24px;
     cursor: pointer;
-    color: #007bff;
+    color: #c2185b;
     z-index: 210;
 }
 
@@ -208,20 +208,45 @@ aside:not(.hidden) ~ main {
     margin: 30px 0;
 }
 
-/* Sidebar sections */
-.sidebar-section {
-    margin-bottom: 30px;
-}
-
-.sidebar-section h3 {
+/* Dropdowns */
+details {
     margin-bottom: 15px;
-    font-size: 20px;
-    font-weight: 600;
-    color: #007bff;
-    border-bottom: 1px solid #b3d9ff;
-    padding-bottom: 5px;
 }
 
+summary {
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    color: #c2185b;
+    padding: 10px 0;
+    border-bottom: 1px solid #f8bbd9;
+    list-style: none;
+}
+
+summary::marker {
+    display: none;
+}
+
+summary::before {
+    content: '▶';
+    margin-right: 10px;
+    transition: transform 0.3s ease;
+}
+
+details[open] summary::before {
+    transform: rotate(90deg);
+}
+
+details details {
+    margin-left: 20px;
+}
+
+details details summary {
+    font-size: 16px;
+    color: #e91e63;
+}
+
+/* Sidebar cards */
 .sidebar-card {
     display: flex;
     align-items: center;
@@ -231,6 +256,7 @@ aside:not(.hidden) ~ main {
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     transition: box-shadow 0.3s ease;
+    cursor: pointer;
 }
 
 .sidebar-card:hover {
@@ -260,6 +286,35 @@ aside:not(.hidden) ~ main {
     font-size: 14px;
     color: #666;
     line-height: 1.4;
+}
+
+/* Full info card */
+.full-info {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.full-info h3 {
+    font-size: 18px;
+    color: #c2185b;
+    margin-bottom: 10px;
+}
+
+.full-info p {
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+.full-info ul {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.full-info li {
+    margin-bottom: 5px;
 }
 
 /* Responsive */

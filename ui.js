@@ -86,28 +86,33 @@ function renderSidebar() {
 
     // Power
     if (appState.microwave.power) {
-        const powerSection = document.createElement('div');
-        powerSection.className = 'sidebar-section';
-        powerSection.innerHTML = '<h3>Power</h3>';
+        const powerDetails = document.createElement('details');
+        powerDetails.innerHTML = '<summary>Power</summary>';
+        const powerContent = document.createElement('div');
         appState.microwave.power.forEach(power => {
+            const subDetails = document.createElement('details');
+            subDetails.innerHTML = `<summary>${power.name.en} | ${power.name.hi}</summary>`;
             const card = document.createElement('div');
             card.className = 'sidebar-card';
+            card.onclick = () => showFullInfo(power, 'power');
             card.innerHTML = `
                 <div class="info">
                     <h4>${power.name.en} | ${power.name.hi}</h4>
                     <p>${power.output}</p>
                 </div>
             `;
-            powerSection.appendChild(card);
+            subDetails.appendChild(card);
+            powerContent.appendChild(subDetails);
         });
-        sidebar.appendChild(powerSection);
+        powerDetails.appendChild(powerContent);
+        sidebar.appendChild(powerDetails);
     }
 
     // Crockery
     if (appState.microwave.crockery) {
-        const crockerySection = document.createElement('div');
-        crockerySection.className = 'sidebar-section';
-        crockerySection.innerHTML = '<h3>Crockery</h3>';
+        const crockeryDetails = document.createElement('details');
+        crockeryDetails.innerHTML = '<summary>Crockery</summary>';
+        const crockeryContent = document.createElement('div');
         appState.microwave.crockery.forEach(item => {
             const card = document.createElement('div');
             card.className = 'sidebar-card';
@@ -117,28 +122,62 @@ function renderSidebar() {
                     <h4>${item.name.en} | ${item.name.hi}</h4>
                 </div>
             `;
-            crockerySection.appendChild(card);
+            crockeryContent.appendChild(card);
         });
-        sidebar.appendChild(crockerySection);
+        crockeryDetails.appendChild(crockeryContent);
+        sidebar.appendChild(crockeryDetails);
     }
 
     // Buttons
     if (appState.microwave.buttons) {
-        const buttonsSection = document.createElement('div');
-        buttonsSection.className = 'sidebar-section';
-        buttonsSection.innerHTML = '<h3>Buttons</h3>';
+        const buttonsDetails = document.createElement('details');
+        buttonsDetails.innerHTML = '<summary>Buttons</summary>';
+        const buttonsContent = document.createElement('div');
         appState.microwave.buttons.forEach(button => {
+            const subDetails = document.createElement('details');
+            subDetails.innerHTML = `<summary>${button.name.en} | ${button.name.hi}</summary>`;
             const card = document.createElement('div');
             card.className = 'sidebar-card';
+            card.onclick = () => showFullInfo(button, 'button');
             card.innerHTML = `
                 <img src="${button.image}" alt="${button.name.en}" loading="lazy">
                 <div class="info">
                     <h4>${button.name.en} | ${button.name.hi}</h4>
-                    <p>${button.info ? button.info.en : ''}</p>
                 </div>
             `;
-            buttonsSection.appendChild(card);
+            subDetails.appendChild(card);
+            buttonsContent.appendChild(subDetails);
         });
-        sidebar.appendChild(buttonsSection);
+        buttonsDetails.appendChild(buttonsContent);
+        sidebar.appendChild(buttonsDetails);
     }
+}
+
+// Show full info
+function showFullInfo(item, type) {
+    const existing = document.querySelector('.full-info');
+    if (existing) existing.remove();
+
+    const card = event.currentTarget;
+    const fullInfo = document.createElement('div');
+    fullInfo.className = 'full-info';
+
+    if (type === 'power') {
+        fullInfo.innerHTML = `
+            <h3>${item.name.en} | ${item.name.hi}</h3>
+            <p><strong>Output:</strong> ${item.output}</p>
+            <h4>Steps (English)</h4>
+            <ul>${item.steps.en.map(step => `<li>${step}</li>`).join('')}</ul>
+            <h4>Steps (Hindi)</h4>
+            <ul>${item.steps.hi.map(step => `<li>${step}</li>`).join('')}</ul>
+        `;
+    } else if (type === 'button') {
+        fullInfo.innerHTML = `
+            <h3>${item.name.en} | ${item.name.hi}</h3>
+            <p><strong>Info (English):</strong> ${item.info.en}</p>
+            <p><strong>Info (Hindi):</strong> ${item.info.hi}</p>
+        `;
+    }
+
+    card.appendChild(fullInfo);
 }

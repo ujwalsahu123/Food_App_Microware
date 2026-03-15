@@ -9,6 +9,7 @@ function initRouter() {
 
 // Handle route changes
 function handleRouteChange() {
+    window.scrollTo(0, 0); // Reset scroll to top
     const hash = window.location.hash.substring(1); // Remove #
     const params = new URLSearchParams(hash);
 

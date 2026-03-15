@@ -62,6 +62,7 @@ function handleSearch(event) {
     const query = event.target.value.toLowerCase();
     if (query) {
         const filteredRecipes = searchRecipes(query);
+        window.scrollTo(0, 0);
         renderRecipeList(filteredRecipes);
     } else {
         // If search is empty, go back to current route

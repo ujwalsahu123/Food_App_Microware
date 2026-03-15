@@ -1,5 +1,6 @@
 // Render sections page
 function renderSections() {
+    window.scrollTo(0, 0);
     const main = document.getElementById('main-content');
     main.innerHTML = '<h1>Sections</h1><div class="grid" id="sections-grid"></div>';
 
@@ -22,6 +23,7 @@ function renderSections() {
 
 // Render recipe list page
 function renderRecipeList(recipes) {
+    window.scrollTo(0, 0);
     const main = document.getElementById('main-content');
     main.innerHTML = '<h1>Recipes</h1><div class="grid" id="recipes-grid"></div>';
 
@@ -44,6 +46,7 @@ function renderRecipeList(recipes) {
 
 // Render recipe detail page
 function renderRecipeDetail(recipeId) {
+    window.scrollTo(0, 0);
     const recipe = getRecipeById(recipeId);
     if (!recipe) return;
 

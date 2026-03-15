@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microwave Recipe Viewer</title>
+    <link rel="icon" href="images/logo.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <button id="hamburger" aria-label="Menu">☰</button>
+        <input type="text" id="search" placeholder="Search recipes...">
+    </header>
+    <div id="overlay" class="hidden"></div>
+    <aside id="sidebar" class="hidden">
+        <button id="close-sidebar" aria-label="Close">×</button>
+        <div id="sidebar-content"></div>
+    </aside>
+    <main id="main-content"></main>
+    <script src="app.js"></script>
+    <script src="router.js"></script>
+    <script src="search.js"></script>
+    <script src="ui.js"></script>
+</body>
+</html>

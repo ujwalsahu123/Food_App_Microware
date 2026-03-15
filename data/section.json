@@ -1,0 +1,68 @@
+{
+  "sections": [
+    {
+      "id": "soup",
+      "name": {
+        "en": "Soup",
+        "hi": "सूप"
+      },
+      "image": "images/section_image/soup.webp"
+    },
+    {
+      "id": "veg",
+      "name": {
+        "en": "Vegetables",
+        "hi": "सब्ज़ियाँ"
+      },
+      "image": "images/section_image/veg.webp"
+    },
+    {
+      "id": "rice",
+      "name": {
+        "en": "Rice",
+        "hi": "चावल"
+      },
+      "image": "images/section_image/rice.jpeg"
+    },
+    {
+      "id": "dough_curd",
+      "name": {
+        "en": "Dough / Curd",
+        "hi": "आटा / दही"
+      },
+      "image": "images/section_image/dough_curd.jpeg"
+    },
+    {
+      "id": "non_veg",
+      "name": {
+        "en": "Non-Veg",
+        "hi": "नॉन वेज"
+      },
+      "image": "images/section_image/non_veg.jpg"
+    },
+    {
+      "id": "snacks",
+      "name": {
+        "en": "Snacks",
+        "hi": "नाश्ता"
+      },
+      "image": "images/section_image/snacks.jpeg"
+    },
+    {
+      "id": "dessert",
+      "name": {
+        "en": "Dessert",
+        "hi": "डेज़र्ट"
+      },
+      "image": "images/section_image/dessert.jpg"
+    },
+    {
+      "id": "continental",
+      "name": {
+        "en": "Continental",
+        "hi": "कॉन्टिनेंटल"
+      },
+      "image": "images/section_image/continental.jpg"
+    }
+  ]
+}

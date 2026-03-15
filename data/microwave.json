@@ -1,0 +1,344 @@
+
+{
+"crockery": [
+{
+"id": "turntable",
+"name": {
+"en": "Turntable",
+"hi": "टर्नटेबल"
+},
+"image": "images/microwave_image/turntable.png"
+},
+{
+"id": "roller_ring",
+"name": {
+"en": "Roller Ring",
+"hi": "रोलर रिंग"
+},
+"image": "images/microwave_image/roller_ring.png"
+},
+{
+"id": "high_rack",
+"name": {
+"en": "High Rack",
+"hi": "हाई रैक"
+},
+"image": "images/microwave_image/high_rack.png"
+},
+{
+"id": "low_rack",
+"name": {
+"en": "Low Rack",
+"hi": "लो रैक"
+},
+"image": "images/microwave_image/low_rack.png"
+},
+{
+"id": "crust_plate",
+"name": {
+"en": "Crust Plate",
+"hi": "क्रस्ट प्लेट"
+},
+"image": "images/microwave_image/crust_plate.png"
+},
+{
+"id": "glass_cookware",
+"name": {
+"en": "Glass Cookware",
+"hi": "कांच के बर्तन"
+},
+"image": "images/microwave_image/glass_cookware.png"
+},
+{
+"id": "roasting_spit",
+"name": {
+"en": "Roasting Spit, Kebab Skewer, Coupler Barbecue",
+"hi": "रोस्टिंग स्पिट, कबाब स्क्यूअर"
+},
+"image": "images/microwave_image/roasting_spit.png"
+}
+],
+
+"power": [
+{
+"id": "high",
+"name": {
+"en": "High",
+"hi": "हाई"
+},
+"output": "900 W",
+"steps": {
+"en": [
+"Press the Microwave button.",
+"Use the Up or Down button to select HIGH power level (900 W).",
+"Press the Select button.",
+"Set the cooking time using the Up or Down buttons.",
+"Press the Start/+30s button."
+],
+"hi": [
+"Microwave बटन दबाएँ।",
+"Up या Down बटन से HIGH पावर लेवल (900 W) चुनें।",
+"Select बटन दबाएँ।",
+"Up या Down बटन से समय सेट करें।",
+"Start/+30s बटन दबाएँ।"
+]
+}
+},
+{
+"id": "medium_high",
+"name": {
+"en": "Medium High",
+"hi": "मीडियम हाई"
+},
+"output": "600 W",
+"steps": {
+"en": [
+"Press the Microwave button.",
+"Use the Up or Down button to select MEDIUM HIGH power level (600 W).",
+"Press the Select button.",
+"Set the cooking time using the Up or Down buttons.",
+"Press the Start/+30s button."
+],
+"hi": [
+"Microwave बटन दबाएँ।",
+"Up या Down बटन से MEDIUM HIGH पावर लेवल (600 W) चुनें।",
+"Select बटन दबाएँ।",
+"Up या Down बटन से समय सेट करें।",
+"Start/+30s बटन दबाएँ।"
+]
+}
+},
+{
+"id": "medium",
+"name": {
+"en": "Medium",
+"hi": "मीडियम"
+},
+"output": "450 W",
+"steps": {
+"en": [
+"Press the Microwave button.",
+"Use the Up or Down button to select MEDIUM power level (450 W).",
+"Press the Select button.",
+"Set the cooking time using the Up or Down buttons.",
+"Press the Start/+30s button."
+],
+"hi": [
+"Microwave बटन दबाएँ।",
+"Up या Down बटन से MEDIUM पावर लेवल (450 W) चुनें।",
+"Select बटन दबाएँ।",
+"Up या Down बटन से समय सेट करें।",
+"Start/+30s बटन दबाएँ।"
+]
+}
+},
+{
+"id": "medium_low",
+"name": {
+"en": "Medium Low",
+"hi": "मीडियम लो"
+},
+"output": "300 W",
+"steps": {
+"en": [
+"Press the Microwave button.",
+"Use the Up or Down button to select MEDIUM LOW power level (300 W).",
+"Press the Select button.",
+"Set the cooking time using the Up or Down buttons.",
+"Press the Start/+30s button."
+],
+"hi": [
+"Microwave बटन दबाएँ।",
+"Up या Down बटन से MEDIUM LOW पावर लेवल (300 W) चुनें।",
+"Select बटन दबाएँ।",
+"Up या Down बटन से समय सेट करें।",
+"Start/+30s बटन दबाएँ।"
+]
+}
+},
+{
+"id": "defrost",
+"name": {
+"en": "Defrost",
+"hi": "डीफ्रॉस्ट"
+},
+"output": "180 W",
+"steps": {
+"en": [
+"Press the Microwave button.",
+"Use the Up or Down button to select DEFROST power level (180 W).",
+"Press the Select button.",
+"Set the cooking time using the Up or Down buttons.",
+"Press the Start/+30s button."
+],
+"hi": [
+"Microwave बटन दबाएँ।",
+"Up या Down बटन से DEFROST पावर लेवल (180 W) चुनें।",
+"Select बटन दबाएँ।",
+"Up या Down बटन से समय सेट करें।",
+"Start/+30s बटन दबाएँ।"
+]
+}
+},
+{
+"id": "low",
+"name": {
+"en": "Low",
+"hi": "लो"
+},
+"output": "100 W",
+"steps": {
+"en": [
+"Press the Microwave button.",
+"Use the Up or Down button to select LOW power level (100 W).",
+"Press the Select button.",
+"Set the cooking time using the Up or Down buttons.",
+"Press the Start/+30s button."
+],
+"hi": [
+"Microwave बटन दबाएँ।",
+"Up या Down बटन से LOW पावर लेवल (100 W) चुनें।",
+"Select बटन दबाएँ।",
+"Up या Down बटन से समय सेट करें।",
+"Start/+30s बटन दबाएँ।"
+]
+}
+}
+],
+
+
+"buttons": [
+{
+"id": "microwave",
+"name": {
+"en": "Microwave",
+"hi": "माइक्रोवेव"
+},
+"image": "images/microwave_image/microwave.png",
+"info": {
+  "en": "This mode is used for normal microwave cooking, reheating and boiling food. After pressing this button you can select a power level such as High (900W), Medium High (600W), Medium (450W), Medium Low (300W), Defrost (180W) or Low (100W). It is mainly used for heating food, cooking vegetables, making instant foods, boiling water, and reheating leftovers.",
+  "hi": "यह मोड सामान्य माइक्रोवेव कुकिंग, खाना गरम करने और उबालने के लिए उपयोग किया जाता है। इस बटन को दबाने के बाद आप पावर लेवल चुन सकते हैं जैसे High (900W), Medium High (600W), Medium (450W), Medium Low (300W), Defrost (180W) या Low (100W)। इसका उपयोग मुख्य रूप से खाना गरम करने, सब्ज़ियाँ पकाने, इंस्टेंट फूड बनाने, पानी उबालने और बचे हुए खाने को गरम करने के लिए किया जाता है।"
+}
+},
+{
+"id": "grill",
+"name": {
+"en": "Grill",
+"hi": "ग्रिल"
+},
+"image": "images/microwave_image/grill.png",
+"info": {
+"en": "Grill mode uses the heating element at the top of the oven to brown and crisp food. Microwaves are not used in this mode. It is ideal for grilling items such as sandwiches, paneer tikka, kebabs, sausages and toast. Using the high rack helps the food cook evenly and become crispy.", 
+"hi": "ग्रिल मोड में ओवन के ऊपर मौजूद हीटिंग एलिमेंट का उपयोग किया जाता है जिससे खाना ब्राउन और क्रिस्प बनता है। इस मोड में माइक्रोवेव का उपयोग नहीं होता। यह सैंडविच, पनीर टिक्का, कबाब, सॉसेज और टोस्ट जैसे खाने को ग्रिल करने के लिए उपयुक्त है। बेहतर परिणाम के लिए हाई रैक का उपयोग करना चाहिए।"
+     }
+},
+{
+"id": "convection",
+"name": {
+"en": "Convection",
+"hi": "कन्वेक्शन"
+},
+"image": "images/microwave_image/convection.png",
+"info": {
+"en": "Convection mode works like a traditional oven by circulating hot air inside the cavity. You can set temperatures from 40°C to 200°C. This mode is mainly used for baking cakes, cookies, pizza, bread and roasting meat or vegetables. The low rack is usually recommended for better baking results.",
+"hi": "कन्वेक्शन मोड पारंपरिक ओवन की तरह काम करता है जिसमें गर्म हवा पूरे ओवन में घूमती है। इसमें 40°C से 200°C तक तापमान सेट किया जा सकता है। यह मोड केक, कुकीज़, पिज़्ज़ा, ब्रेड बेक करने और मांस या सब्ज़ियों को रोस्ट करने के लिए उपयोग किया जाता है। बेहतर परिणाम के लिए लो रैक का उपयोग करना चाहिए।"
+}
+},
+{
+"id": "combi",
+"name": {
+"en": "Combi",
+"hi": "कॉम्बी"
+},
+"image": "images/microwave_image/combi.png",
+"info": {
+"en": "Combi mode combines microwave cooking with grill or convection heating. This helps food cook faster while also browning the surface. There are two combination modes: Cb-1 (Microwave + Grill) which is useful for foods like sandwiches, kebabs and pizza that need quick cooking and browning, and Cb-2 (Microwave + Convection) which is used for roasting meat, baking dishes, pies and casseroles where both heating and baking are needed.",
+"hi": "कॉम्बी मोड में माइक्रोवेव को ग्रिल या कन्वेक्शन के साथ मिलाकर कुकिंग की जाती है। इससे खाना जल्दी पकता है और ऊपर से ब्राउन भी हो जाता है। इसमें दो कॉम्बिनेशन मोड होते हैं: Cb-1 (Microwave + Grill) जो सैंडविच, कबाब और पिज़्ज़ा जैसे खाने के लिए उपयोग होता है जहाँ जल्दी कुकिंग और ब्राउनिंग चाहिए, और Cb-2 (Microwave + Convection) जो मांस रोस्ट करने, बेकिंग डिश, पाई और कैसरोल बनाने के लिए उपयोग होता है जहाँ बेकिंग और हीट दोनों चाहिए।"
+}
+},
+{
+"id": "slim_fry",
+"name": {
+"en": "Slim Fry",
+"hi": "स्लिम फ्राय"
+},
+"image": "images/microwave_image/slim_fry.png",
+"info": {
+"en": "Slim Fry uses a combination of convection heat, grill heater and microwave energy to cook food with little oil. It allows frying-style cooking while keeping food healthier. It is commonly used for fries, nuggets, onion rings, chicken snacks and other crispy foods.",
+ "hi": "स्लिम फ्राय मोड में कन्वेक्शन हीट, ग्रिल हीटर और माइक्रोवेव एनर्जी का संयोजन होता है जिससे कम तेल में फ्राई जैसा परिणाम मिलता है। यह फ्रेंच फ्राइज, नगेट्स, अनियन रिंग्स, चिकन स्नैक्स और अन्य क्रिस्पी खाने के लिए उपयोग किया जाता है।"
+}
+},
+{
+"id": "power_defrost",
+"name": {
+"en": "Power Defrost",
+"hi": "पावर डीफ्रॉस्ट"
+},
+"image": "images/microwave_image/power_defrost.png",
+"info": {
+"en": "Power Defrost automatically defrosts frozen foods. You only need to select the food type and weight. The microwave adjusts the power level and time automatically. It can defrost meat, poultry, fish, bread, cakes and fruits evenly without partially cooking them.",
+"hi": "पावर डीफ्रॉस्ट फ्रोजन खाने को जल्दी और समान रूप से डीफ्रॉस्ट करता है। इसमें आपको केवल खाने का प्रकार और वजन चुनना होता है। माइक्रोवेव अपने आप पावर लेवल और समय सेट कर देता है। इसका उपयोग मांस, चिकन, मछली, ब्रेड, केक और फल को डीफ्रॉस्ट करने के लिए किया जाता है।"
+}
+},
+{
+"id": "deodorisation",
+"name": {
+"en": "Deodorisation",
+"hi": "डिओडोराइजेशन"
+},
+"image": "images/microwave_image/deodorisation.png",
+"info": {
+"en": "This function removes strong smells from inside the oven after cooking foods with strong odors. When activated, the microwave runs an internal ventilation process for about 5 minutes to clean the air inside the cavity.",
+"hi": "यह फ़ंक्शन खाना बनाने के बाद माइक्रोवेव के अंदर की तेज़ गंध को हटाने के लिए उपयोग किया जाता है। इसे चालू करने पर माइक्रोवेव लगभग 5 मिनट तक अंदर की हवा को साफ करने के लिए वेंटिलेशन प्रक्रिया चलाता है।"
+}
+},
+{
+"id": "roti_naan",
+"name": {
+"en": "Roti / Naan",
+"hi": "रोटी / नान"
+},
+"image": "images/microwave_image/roti_naan.png",
+"info": {
+"en": "This feature provides automatic cooking programs specifically designed for making roti and naan. The microwave automatically sets the cooking time and heating method so you do not need to manually select power or temperature. Simply place the roti or naan in the centre of the turntable, press the Roti/Naan button, choose the category using the Up or Down button, and press Start. The oven cooks the food using the preset settings and stops automatically when finished.",
+"hi": "यह फीचर रोटी और नान बनाने के लिए विशेष ऑटोमैटिक कुकिंग प्रोग्राम देता है। इसमें आपको पावर लेवल या तापमान सेट करने की आवश्यकता नहीं होती क्योंकि माइक्रोवेव अपने आप समय और हीटिंग मोड सेट कर देता है। रोटी या नान को टर्नटेबल के बीच में रखें, Roti/Naan बटन दबाएँ, Up या Down बटन से कैटेगरी चुनें और Start दबाएँ। माइक्रोवेव अपने प्रीसेट सेटिंग्स के अनुसार खाना पकाकर अपने आप बंद हो जाएगा।"
+}
+},
+{
+"id": "indian_recipe",
+"name": {
+"en": "Indian Recipe",
+"hi": "इंडियन रेसिपी"
+},
+"image": "images/microwave_image/indian_recipe.png",
+"info": {
+"en": "The Indian Recipe button provides many pre-programmed cooking menus designed for common Indian dishes. These programs automatically set the cooking mode, power level and time according to the selected recipe. After pressing the Indian Recipe button you can select a recipe category and recipe number using the Up and Down buttons, then press Select and Start. This feature simplifies cooking by automatically adjusting the microwave, grill or convection settings required for the dish.",
+"hi": "इंडियन रेसिपी बटन में कई भारतीय व्यंजनों के लिए पहले से सेट कुकिंग प्रोग्राम होते हैं। यह प्रोग्राम चुनी हुई रेसिपी के अनुसार अपने आप कुकिंग मोड, पावर लेवल और समय सेट कर देता है। Indian Recipe बटन दबाने के बाद Up और Down बटन से रेसिपी कैटेगरी और नंबर चुनें, फिर Select और Start दबाएँ। यह फीचर खाना बनाने को आसान बनाता है क्योंकि माइक्रोवेव, ग्रिल या कन्वेक्शन की सेटिंग अपने आप समायोजित हो जाती है।"
+}
+},
+{
+"id": "curd_dough",
+"name": {
+"en": "Curd / Dough Proof",
+"hi": "दही / डो प्रूफ"
+},
+"image": "images/microwave_image/curd_dough.png",
+"info": {
+"en": "This function is used for preparing homemade curd or helping yeast dough rise. The microwave maintains a controlled warm environment that is ideal for fermentation. There are two preset options: Curd, used to ferment milk into yogurt, and Dough Proof, used to help dough rise when making bread or similar recipes. Simply place the container inside the microwave, press the Curd/Dough Proof button, choose the option using the Up or Down button, and press Start.",
+"hi": "यह फ़ंक्शन घर पर दही बनाने या यीस्ट वाले आटे को फुलाने के लिए उपयोग किया जाता है। माइक्रोवेव अंदर एक नियंत्रित गर्म वातावरण बनाता है जो फर्मेंटेशन के लिए उपयुक्त होता है। इसमें दो विकल्प होते हैं: Curd, जो दूध से दही बनाने के लिए उपयोग होता है, और Dough Proof, जो ब्रेड या अन्य रेसिपी के लिए आटे को फुलाने में मदद करता है। कंटेनर को माइक्रोवेव में रखें, Curd/Dough Proof बटन दबाएँ, Up या Down बटन से विकल्प चुनें और Start दबाएँ।"
+}
+},
+{
+"id": "clock",
+"name": {
+"en": "Clock",
+"hi": "घड़ी"
+},
+"image": "images/microwave_image/clock.png",
+"info": {
+"en": "Used to set the time on the microwave display.",
+"hi": "माइक्रोवेव की घड़ी का समय सेट करने के लिए उपयोग किया जाता है।"
+}
+}
+]
+}

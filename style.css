@@ -246,6 +246,9 @@ details details summary {
     color: #e91e63;
 }
 
+.power-summary {
+    color: #000;
+}
 /* Sidebar cards */
 .sidebar-card {
     display: flex;
@@ -288,13 +291,29 @@ details details summary {
     line-height: 1.4;
 }
 
+/* Vertical cards for crockery and buttons */
+.sidebar-card.vertical {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.sidebar-card.vertical img {
+    margin-right: 0;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
 /* Full info card */
 .full-info {
     background-color: #fff;
     border-radius: 12px;
-    padding: 20px;
-    margin-top: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    padding: 16px;
+    margin-top: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .full-info h3 {

@@ -91,17 +91,19 @@ function renderSidebar() {
         const powerContent = document.createElement('div');
         appState.microwave.power.forEach(power => {
             const subDetails = document.createElement('details');
-            subDetails.innerHTML = `<summary>${power.name.en} | ${power.name.hi}</summary>`;
-            const card = document.createElement('div');
-            card.className = 'sidebar-card';
-            card.onclick = () => showFullInfo(power, 'power');
-            card.innerHTML = `
-                <div class="info">
-                    <h4>${power.name.en} | ${power.name.hi}</h4>
-                    <p>${power.output}</p>
-                </div>
+            subDetails.innerHTML = `<summary class="power-summary">${power.name.en} | ${power.name.hi}</summary>`;
+
+            const fullInfo = document.createElement('div');
+            fullInfo.className = 'full-info';
+            fullInfo.innerHTML = `
+                <p><strong>Output:</strong> ${power.output}</p>
+                <h4>Steps (Hindi)</h4>
+                <ul>${power.steps.hi.map(step => `<li>${step}</li>`).join('')}</ul>
+                <h4>Steps (English)</h4>
+                <ul>${power.steps.en.map(step => `<li>${step}</li>`).join('')}</ul>
             `;
-            subDetails.appendChild(card);
+
+            subDetails.appendChild(fullInfo);
             powerContent.appendChild(subDetails);
         });
         powerDetails.appendChild(powerContent);
@@ -115,7 +117,7 @@ function renderSidebar() {
         const crockeryContent = document.createElement('div');
         appState.microwave.crockery.forEach(item => {
             const card = document.createElement('div');
-            card.className = 'sidebar-card';
+            card.className = 'sidebar-card vertical';
             card.innerHTML = `
                 <img src="${item.image}" alt="${item.name.en}" loading="lazy">
                 <div class="info">
@@ -134,19 +136,38 @@ function renderSidebar() {
         buttonsDetails.innerHTML = '<summary>Buttons</summary>';
         const buttonsContent = document.createElement('div');
         appState.microwave.buttons.forEach(button => {
-            const subDetails = document.createElement('details');
-            subDetails.innerHTML = `<summary>${button.name.en} | ${button.name.hi}</summary>`;
             const card = document.createElement('div');
-            card.className = 'sidebar-card';
-            card.onclick = () => showFullInfo(button, 'button');
+            card.className = 'sidebar-card vertical';
             card.innerHTML = `
                 <img src="${button.image}" alt="${button.name.en}" loading="lazy">
                 <div class="info">
                     <h4>${button.name.en} | ${button.name.hi}</h4>
                 </div>
             `;
-            subDetails.appendChild(card);
-            buttonsContent.appendChild(subDetails);
+
+            card.addEventListener('click', () => {
+                // close any other open info panels
+                document.querySelectorAll('.full-info').forEach(el => {
+                    if (!card.contains(el)) el.remove();
+                });
+
+                const existing = card.querySelector('.full-info');
+                if (existing) {
+                    existing.remove();
+                    return;
+                }
+
+                const fullInfo = document.createElement('div');
+                fullInfo.className = 'full-info';
+                fullInfo.innerHTML = `
+                    <p><strong>Info (Hindi):</strong> ${button.info.hi}</p>
+                    <p><strong>Info (English):</strong> ${button.info.en}</p>
+                `;
+
+                card.appendChild(fullInfo);
+            });
+
+            buttonsContent.appendChild(card);
         });
         buttonsDetails.appendChild(buttonsContent);
         sidebar.appendChild(buttonsDetails);

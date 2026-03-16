@@ -5,11 +5,19 @@
     box-sizing: border-box;
 }
 
+html, body {
+    overflow-x: hidden;
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f0f8ff;
     color: #333;
     line-height: 1.6;
+}
+
+body.sidebar-open {
+    overflow: hidden;
 }
 
 /* Header */

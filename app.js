@@ -45,8 +45,18 @@ function initApp() {
 function toggleSidebar() {
     const sidebar = document.getElementById('sidebar');
     const overlay = document.getElementById('overlay');
-    sidebar.classList.toggle('hidden');
-    overlay.classList.toggle('hidden');
+    const body = document.body;
+
+    const open = !sidebar.classList.contains('hidden');
+    if (open) {
+        sidebar.classList.add('hidden');
+        overlay.classList.add('hidden');
+        body.classList.remove('sidebar-open');
+    } else {
+        sidebar.classList.remove('hidden');
+        overlay.classList.remove('hidden');
+        body.classList.add('sidebar-open');
+    }
 }
 
 // Close sidebar
@@ -55,6 +65,7 @@ function closeSidebar() {
     const overlay = document.getElementById('overlay');
     sidebar.classList.add('hidden');
     overlay.classList.add('hidden');
+    document.body.classList.remove('sidebar-open');
 }
 
 // Handle search

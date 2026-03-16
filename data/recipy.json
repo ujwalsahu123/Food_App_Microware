@@ -80,7 +80,7 @@
         "hi": "हॉट एंड सॉर सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/hot_and_sour_soup.jpg",
+      "image": "images/recipy_image/hot_and_sour_soup.jpeg",
       "tags": [
         "soup",
         "chinese",
@@ -164,7 +164,7 @@
         "hi": "स्वीट कॉर्न सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/sweet_corn_soup.jpg",
+      "image": "images/recipy_image/sweet_corn_soup.png",
       "tags": [
         "corn",
         "sweetcorn",
@@ -308,7 +308,7 @@
         "hi": "लीक और आलू का सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/leek_potato_soup.jpg",
+      "image": "images/recipy_image/leek_potato_soup.jpeg",
       "serves": 4,
       "tags": [
         "leek",
@@ -390,7 +390,7 @@
         "hi": "स्प्लिट पी सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/split_pea_soup.jpg",
+      "image": "images/recipy_image/split_pea_soup.jpeg",
       "serves": 4,
       "tags": [
         "pea",
@@ -459,7 +459,7 @@
         "hi": "खमन ढोकला"
       },
       "section": "snacks",
-      "image": "images/recipy_image/khaman_dhokla.jpg",
+      "image": "images/recipy_image/khaman_dhokla.jpeg",
       "serves": 4,
       "tags": [
         "dhokla",
@@ -550,7 +550,7 @@
         "hi": "आलू कंद चाट"
       },
       "section": "snacks",
-      "image": "images/recipy_image/aloo_kand_chaat.jpg",
+      "image": "images/recipy_image/aloo_kand_chaat.jpeg",
       "serves": 4,
       "tags": [
         "aloo",
@@ -626,7 +626,7 @@
         "hi": "इडली"
       },
       "section": "snacks",
-      "image": "images/recipy_image/idli.jpg",
+      "image": "images/recipy_image/idli.jpeg",
       "serves": 4,
       "tags": [
         "idli",
@@ -792,7 +792,7 @@
         "hi": "वेजी मेयो रोल्स"
       },
       "section": "snacks",
-      "image": "images/recipy_image/veggie_mayo_rolls.jpg",
+      "image": "images/recipy_image/veggie_mayo_rolls.jpeg",
       "serves": 4,
       "tags": [
         "vegetarian",
@@ -886,7 +886,7 @@
         "hi": "मिनी पराठा (पनीर और हरे मटर)"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/mini_parathas_paneer_green_peas.jpg",
+      "image": "images/recipy_image/mini_parathas_paneer_green_peas.jpeg",
       "serves": 2,
       "tags": [
         "paratha",
@@ -985,7 +985,7 @@
         "hi": "चना चाट"
       },
       "section": "snacks",
-      "image": "images/recipy_image/chana_chaat.jpg",
+      "image": "images/recipy_image/chana_chaat.jpeg",
       "serves": 2,
       "tags": [
         "chana",
@@ -1069,7 +1069,7 @@
         "hi": "टमाटर की चटनी"
       },
       "section": "snacks",
-      "image": "images/recipy_image/tomato_chutney.jpg",
+      "image": "images/recipy_image/tomato_chutney.jpeg",
       "serves": 3,
       "tags": [
         "tomato",
@@ -1144,7 +1144,7 @@
         "hi": "मुर्ग तंगड़ी कबाब"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/murgh_tangri_kabab.jpg",
+      "image": "images/recipy_image/murgh_tangri_kabab.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -1236,7 +1236,7 @@
         "hi": "गार्लिक प्रॉन्स"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/garlic_prawns.jpg",
+      "image": "images/recipy_image/garlic_prawns.jpeg",
       "serves": 4,
       "tags": [
         "prawn",
@@ -1315,7 +1315,7 @@
         "hi": "थाई स्टाइल चिकन सलाद"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/thai_style_chicken_salad.jpg",
+      "image": "images/recipy_image/thai_style_chicken_salad.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -1416,7 +1416,7 @@
         "hi": "स्टफ्ड बेक्ड आलू"
       },
       "section": "snacks",
-      "image": "images/recipy_image/stuffed_baked_potatoes.jpg",
+      "image": "images/recipy_image/stuffed_baked_potatoes.jpeg",
       "serves": 4,
       "tags": [
         "potato",
@@ -1483,7 +1483,7 @@
         "hi": "वेजिटेबल लसग्ना"
       },
       "section": "continental",
-      "image": "images/recipy_image/vegetable_lasagne.jpg",
+      "image": "images/recipy_image/vegetable_lasagne.jpeg",
       "serves": 4,
       "tags": [
         "lasagne",
@@ -1579,7 +1579,7 @@
         "hi": "स्टफ्ड टमाटर"
       },
       "section": "snacks",
-      "image": "images/recipy_image/stuffed_tomatoes.jpg",
+      "image": "images/recipy_image/stuffed_tomatoes.jpeg",
       "serves": 4,
       "tags": [
         "tomato",
@@ -1655,7 +1655,7 @@
         "hi": "आलू मेथी"
       },
       "section": "veg",
-      "image": "images/recipy_image/aloo_methi.jpg",
+      "image": "images/recipy_image/aloo_methi.jpeg",
       "serves": 4,
       "tags": [
         "aloo",
@@ -1738,7 +1738,7 @@
         "hi": "कसोंदी भिंडी"
       },
       "section": "veg",
-      "image": "images/recipy_image/kasundi_bhindi.jpg",
+      "image": "images/recipy_image/kasundi_bhindi.jpeg",
       "serves": 2,
       "tags": [
         "bhindi",
@@ -1844,7 +1844,7 @@
         "hi": "सिंपल थाई रेड करी"
       },
       "section": "veg",
-      "image": "images/recipy_image/simple_thai_red_curry.jpg",
+      "image": "images/recipy_image/simple_thai_red_curry.jpeg",
       "serves": 4,
       "tags": [
         "thai",
@@ -1953,7 +1953,7 @@
         "hi": "पनीर पेशावरी"
       },
       "section": "veg",
-      "image": "images/recipy_image/paneer_peshawari.jpg",
+      "image": "images/recipy_image/paneer_peshawari.jpeg",
       "serves": 4,
       "tags": [
         "paneer",
@@ -2075,7 +2075,7 @@
         "hi": "महारानी दाल"
       },
       "section": "veg",
-      "image": "images/recipy_image/maharani_dal.jpg",
+      "image": "images/recipy_image/maharani_dal.jpeg",
       "serves": 4,
       "tags": [
         "dal",
@@ -2189,7 +2189,7 @@
         "hi": "बेबी कॉर्न हरा मसाला"
       },
       "section": "veg",
-      "image": "images/recipy_image/baby_corn_hara_masala.jpg",
+      "image": "images/recipy_image/baby_corn_hara_masala.jpeg",
       "serves": 4,
       "tags": [
         "baby_corn",
@@ -2293,7 +2293,7 @@
         "hi": "बादामी पनीर"
       },
       "section": "veg",
-      "image": "images/recipy_image/badami_paneer.jpg",
+      "image": "images/recipy_image/badami_paneer.jpeg",
       "serves": 4,
       "tags": [
         "paneer",
@@ -2437,7 +2437,7 @@
         "hi": "ज़ुकीनी, प्याज़ और टमाटर फ्लान"
       },
       "section": "continental",
-      "image": "images/recipy_image/zucchini_onion_tomato_flan.jpg",
+      "image": "images/recipy_image/zucchini_onion_tomato_flan.jpeg",
       "serves": 2,
       "tags": [
         "zucchini",
@@ -2531,7 +2531,7 @@
         "hi": "बैंगन तियान"
       },
       "section": "veg",
-      "image": "images/recipy_image/aubergine_tian.jpg",
+      "image": "images/recipy_image/aubergine_tian.jpeg",
       "serves": 2,
       "tags": [
         "aubergine",
@@ -2649,7 +2649,7 @@
         "hi": "स्टिर-फ्राइड सब्जियां"
       },
       "section": "veg",
-      "image": "images/recipy_image/stir_fried_vegetables.jpg",
+      "image": "images/recipy_image/stir_fried_vegetables.jpeg",
       "serves": 4,
       "tags": [
         "vegetable",
@@ -2769,7 +2769,7 @@
         "hi": "मसाला मशरूम"
       },
       "section": "veg",
-      "image": "images/recipy_image/masala_mushrooms.jpg",
+      "image": "images/recipy_image/masala_mushrooms.jpeg",
       "serves": 4,
       "tags": [
         "mushroom",
@@ -2881,7 +2881,7 @@
         "hi": "क्रीमी दूध वाला कॉर्न"
       },
       "section": "veg",
-      "image": "images/recipy_image/corn_in_creamy_milk.jpg",
+      "image": "images/recipy_image/corn_in_creamy_milk.jpeg",
       "serves": 4,
       "tags": [
         "corn",
@@ -3015,7 +3015,7 @@
         "hi": "बंगाली स्टाइल ब्रोकली"
       },
       "section": "veg",
-      "image": "images/recipy_image/broccoli_bengali_style.jpg",
+      "image": "images/recipy_image/broccoli_bengali_style.jpeg",
       "serves": 4,
       "tags": [
         "broccoli",
@@ -3103,7 +3103,7 @@
         "hi": "ऑयस्टर सॉस के साथ चाइनीज़ ग्रीन्स"
       },
       "section": "continental",
-      "image": "images/recipy_image/chinese_greens_with_oyster_sauce.jpg",
+      "image": "images/recipy_image/chinese_greens_with_oyster_sauce.jpeg",
       "serves": 4,
       "tags": [
         "bokchoy",
@@ -3201,7 +3201,7 @@
         "hi": "अमृतसरी फिश"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/amritsari_fish.jpg",
+      "image": "images/recipy_image/amritsari_fish.jpeg",
       "serves": 4,
       "tags": [
         "fish",
@@ -3312,7 +3312,7 @@
         "hi": "क्रीमी टमाटर डिल सॉस के साथ सैल्मन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/salmon_with_creamy_tomato_dill_sauce.jpg",
+      "image": "images/recipy_image/salmon_with_creamy_tomato_dill_sauce.jpeg",
       "serves": 4,
       "tags": [
         "salmon",
@@ -3441,7 +3441,7 @@
         "hi": "दम का मुर्ग"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/dum_ka_murgh.jpg",
+      "image": "images/recipy_image/dum_ka_murgh.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -3577,7 +3577,7 @@
         "hi": "मुर्ग की चपली कबाब"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/murgh_ki_chapli_kabab.jpg",
+      "image": "images/recipy_image/murgh_ki_chapli_kabab.jpeg",
       "serves": 2,
       "tags": [
         "chicken",
@@ -3687,7 +3687,7 @@
         "hi": "चिकन एन्चिलाडास"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_enchiladas.jpg",
+      "image": "images/recipy_image/chicken_enchiladas.jpeg",
       "serves": 2,
       "tags": [
         "chicken",
@@ -3827,7 +3827,7 @@
         "hi": "अलेप्पी प्रॉन करी"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/alleppey_curry_with_prawns.jpg",
+      "image": "images/recipy_image/alleppey_curry_with_prawns.jpeg",
       "serves": 4,
       "tags": [
         "prawn",
@@ -3981,7 +3981,7 @@
         "hi": "काली मिर्च टंगड़ी चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/kali_mirch_tangri_chicken.jpg",
+      "image": "images/recipy_image/kali_mirch_tangri_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -4085,7 +4085,7 @@
         "hi": "पनीर के साथ क्रिस्पी लेयर्ड ब्रेड"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/crispy_layered_bread_with_paneer.jpg",
+      "image": "images/recipy_image/crispy_layered_bread_with_paneer.jpeg",
       "serves": 6,
       "tags": [
         "bread",
@@ -4187,7 +4187,7 @@
         "hi": "चीज़ ब्रेड"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/cheese_bread.jpg",
+      "image": "images/recipy_image/cheese_bread.jpeg",
       "serves": 4,
       "tags": [
         "bread",
@@ -4303,7 +4303,7 @@
         "hi": "मीठा गूंथा हुआ ब्रेड लोफ"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/sweet_plaited_loaf.jpg",
+      "image": "images/recipy_image/sweet_plaited_loaf.jpeg",
       "serves": 4,
       "tags": [
         "bread",
@@ -4407,7 +4407,7 @@
         "hi": "स्प्लिट लेमन ब्रेड"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/split_lemon_bread.jpg",
+      "image": "images/recipy_image/split_lemon_bread.jpeg",
       "serves": 4,
       "tags": [
         "bread",
@@ -4501,7 +4501,7 @@
         "hi": "शीरमल"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/sheermal.jpg",
+      "image": "images/recipy_image/sheermal.jpeg",
       "serves": 4,
       "tags": [
         "bread",
@@ -4615,7 +4615,7 @@
         "hi": "मिस्सी रोटी"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/missi_roti.jpg",
+      "image": "images/recipy_image/missi_roti.jpeg",
       "serves": 4,
       "tags": [
         "roti",
@@ -4705,7 +4705,7 @@
         "hi": "क्विक चीज़ पिज़्ज़ा"
       },
       "section": "snacks",
-      "image": "images/recipy_image/quick_cheese_pizza.jpg",
+      "image": "images/recipy_image/quick_cheese_pizza.jpeg",
       "serves": 2,
       "tags": [
         "pizza",
@@ -4787,7 +4787,7 @@
         "hi": "पेन्ने अल नॉर्मा"
       },
       "section": "continental",
-      "image": "images/recipy_image/penne_al_norma.jpg",
+      "image": "images/recipy_image/penne_al_norma.jpeg",
       "serves": 4,
       "tags": [
         "pasta",
@@ -4923,7 +4923,7 @@
         "hi": "इमली चावल के साथ रायता"
       },
       "section": "rice",
-      "image": "images/recipy_image/tamarind_rice_with_raita.jpg",
+      "image": "images/recipy_image/tamarind_rice_with_raita.jpeg",
       "serves": 4,
       "tags": [
         "rice",
@@ -5019,7 +5019,7 @@
         "hi": "हक्का नूडल्स"
       },
       "section": "rice",
-      "image": "images/recipy_image/hakka_noodles.jpg",
+      "image": "images/recipy_image/hakka_noodles.jpeg",
       "serves": 4,
       "tags": [
         "noodles",
@@ -5157,7 +5157,7 @@
         "hi": "थाई फ्राइड राइस"
       },
       "section": "rice",
-      "image": "images/recipy_image/thai_fried_rice.jpg",
+      "image": "images/recipy_image/thai_fried_rice.jpeg",
       "serves": 4,
       "tags": [
         "rice",
@@ -5285,7 +5285,7 @@
         "hi": "टमाटर और पुदीना पुलाव"
       },
       "section": "rice",
-      "image": "images/recipy_image/tamatar_mint_pulao.jpg",
+      "image": "images/recipy_image/tamatar_mint_pulao.jpeg",
       "serves": 4,
       "tags": [
         "rice",
@@ -5403,7 +5403,7 @@
         "hi": "हरा मूंग तड़का"
       },
       "section": "veg",
-      "image": "images/recipy_image/hara_moong_tadka.jpg",
+      "image": "images/recipy_image/hara_moong_tadka.jpeg",
       "serves": 4,
       "tags": [
         "moong_dal",
@@ -5541,7 +5541,7 @@
         "hi": "वेज फ्राइड राइस"
       },
       "section": "rice",
-      "image": "images/recipy_image/veg_fried_rice.jpg",
+      "image": "images/recipy_image/veg_fried_rice.jpeg",
       "serves": 4,
       "tags": [
         "rice",
@@ -5691,7 +5691,7 @@
         "hi": "चिकन बिरयानी"
       },
       "section": "rice",
-      "image": "images/recipy_image/chicken_biryani.jpg",
+      "image": "images/recipy_image/chicken_biryani.jpeg",
       "serves": 4,
       "tags": [
         "rice",
@@ -5821,7 +5821,7 @@
         "hi": "डबल लेयर्ड चॉकलेट ट्रफल केक"
       },
       "section": "dessert",
-      "image": "images/recipy_image/double_layered_chocolate_truffle_cake.jpg",
+      "image": "images/recipy_image/double_layered_chocolate_truffle_cake.jpeg",
       "serves": 4,
       "tags": [
         "cake",
@@ -5931,7 +5931,7 @@
         "hi": "फ्रेश फ्रूट स्पॉन्ज केक"
       },
       "section": "dessert",
-      "image": "images/recipy_image/fresh_fruit_sponge_cake.jpg",
+      "image": "images/recipy_image/fresh_fruit_sponge_cake.jpeg",
       "serves": 4,
       "tags": [
         "cake",
@@ -6039,7 +6039,7 @@
         "hi": "हनी बी चॉकलेट केक"
       },
       "section": "dessert",
-      "image": "images/recipy_image/honey_bee_chocolate_cake.jpg",
+      "image": "images/recipy_image/honey_bee_chocolate_cake.jpeg",
       "serves": 4,
       "tags": [
         "cake",
@@ -6147,7 +6147,7 @@
         "hi": "ब्रेड एंड बटर पुडिंग"
       },
       "section": "dessert",
-      "image": "images/recipy_image/bread_butter_pudding.jpg",
+      "image": "images/recipy_image/bread_butter_pudding.jpeg",
       "serves": 4,
       "tags": [
         "pudding",
@@ -6235,7 +6235,7 @@
         "hi": "चॉकलेट चिप कुकीज़"
       },
       "section": "dessert",
-      "image": "images/recipy_image/chocolate_chip_cookies.jpg",
+      "image": "images/recipy_image/chocolate_chip_cookies.jpeg",
       "serves": 18,
       "tags": [
         "cookies",
@@ -6342,7 +6342,7 @@
         "hi": "काजू बर्फी"
       },
       "section": "dessert",
-      "image": "images/recipy_image/cashew_burfi.jpg",
+      "image": "images/recipy_image/cashew_burfi.jpeg",
       "serves": 30,
       "tags": [
         "burfi",
@@ -6433,7 +6433,7 @@
         "hi": "चॉकलेट फज"
       },
       "section": "dessert",
-      "image": "images/recipy_image/chocolate_fudge.jpg",
+      "image": "images/recipy_image/chocolate_fudge.jpeg",
       "serves": 4,
       "tags": [
         "fudge",
@@ -6537,7 +6537,7 @@
         "hi": "चॉकलेट एक्लेयर"
       },
       "section": "dessert",
-      "image": "images/recipy_image/chocolate_eclairs.jpg",
+      "image": "images/recipy_image/chocolate_eclairs.jpeg",
       "serves": 4,
       "tags": [
         "eclair",
@@ -6647,7 +6647,7 @@
         "hi": "समोसा पॉकेट्स"
       },
       "section": "snacks",
-      "image": "images/recipy_image/samosa_pockets.jpg",
+      "image": "images/recipy_image/samosa_pockets.jpeg",
       "serves": 4,
       "tags": [
         "samosa",
@@ -6742,7 +6742,7 @@
         "hi": "वेज कटलेट"
       },
       "section": "snacks",
-      "image": "images/recipy_image/veg_cutlets.jpg",
+      "image": "images/recipy_image/veg_cutlets.jpeg",
       "serves": 6,
       "tags": [
         "cutlet",
@@ -6831,7 +6831,7 @@
         "hi": "ब्रेड पकोड़ा"
       },
       "section": "snacks",
-      "image": "images/recipy_image/bread_pakora.jpg",
+      "image": "images/recipy_image/bread_pakora.jpeg",
       "serves": 4,
       "tags": [
         "bread",
@@ -6909,7 +6909,7 @@
         "hi": "मसाला फ्रेंच फ्राइज"
       },
       "section": "snacks",
-      "image": "images/recipy_image/masala_french_fries.jpg",
+      "image": "images/recipy_image/masala_french_fries.jpeg",
       "serves": 4,
       "tags": [
         "potato",
@@ -6978,7 +6978,7 @@
         "hi": "मिक्स वेज पकोड़ा"
       },
       "section": "snacks",
-      "image": "images/recipy_image/mix_veg_pakora.jpg",
+      "image": "images/recipy_image/mix_veg_pakora.jpeg",
       "serves": 4,
       "tags": [
         "pakora",
@@ -7052,7 +7052,7 @@
         "hi": "ब्रेड रोल"
       },
       "section": "snacks",
-      "image": "images/recipy_image/flat_bread_roll.jpg",
+      "image": "images/recipy_image/flat_bread_roll.jpeg",
       "serves": 4,
       "tags": [
         "bread",
@@ -7140,7 +7140,7 @@
         "hi": "आलू बोंडा फ्लिप ओवर्स"
       },
       "section": "snacks",
-      "image": "images/recipy_image/aloo_bonda_flip_overs.jpg",
+      "image": "images/recipy_image/aloo_bonda_flip_overs.jpeg",
       "serves": 6,
       "tags": [
         "potato",
@@ -7220,7 +7220,7 @@
         "hi": "पनीर पकोड़ा"
       },
       "section": "snacks",
-      "image": "images/recipy_image/paneer_pakora.jpg",
+      "image": "images/recipy_image/paneer_pakora.jpeg",
       "serves": 4,
       "tags": [
         "paneer",
@@ -7295,7 +7295,7 @@
         "hi": "मिर्ची पकोड़ा"
       },
       "section": "snacks",
-      "image": "images/recipy_image/mirchi_pakora.jpg",
+      "image": "images/recipy_image/mirchi_pakora.jpeg",
       "serves": 6,
       "tags": [
         "chilli",
@@ -7380,7 +7380,7 @@
         "hi": "आलू टिक्की"
       },
       "section": "snacks",
-      "image": "images/recipy_image/aloo_tikki.jpg",
+      "image": "images/recipy_image/aloo_tikki.jpeg",
       "serves": 6,
       "tags": [
         "potato",
@@ -7452,7 +7452,7 @@
         "hi": "फ्रोजन ओवन चिप्स"
       },
       "section": "snacks",
-      "image": "images/recipy_image/frozen_oven_chips.jpg",
+      "image": "images/recipy_image/frozen_oven_chips.jpeg",
       "serves": 4,
       "tags": [
         "chips",
@@ -7502,7 +7502,7 @@
         "hi": "फ्रोजन पोटैटो क्रोकेट्स"
       },
       "section": "snacks",
-      "image": "images/recipy_image/frozen_potato_croquettes.jpg",
+      "image": "images/recipy_image/frozen_potato_croquettes.jpeg",
       "serves": 4,
       "tags": [
         "potato",
@@ -7549,7 +7549,7 @@
         "hi": "घर के बने फ्रेंच फ्राइज"
       },
       "section": "snacks",
-      "image": "images/recipy_image/homemade_french_fries.jpg",
+      "image": "images/recipy_image/homemade_french_fries.jpeg",
       "serves": 4,
       "tags": [
         "potato",
@@ -7612,7 +7612,7 @@
         "hi": "आलू वेजेज"
       },
       "section": "snacks",
-      "image": "images/recipy_image/potato_wedges.jpg",
+      "image": "images/recipy_image/potato_wedges.jpeg",
       "serves": 4,
       "tags": [
         "potato",
@@ -7669,7 +7669,7 @@
         "hi": "फ्रोजन अनियन रिंग्स"
       },
       "section": "snacks",
-      "image": "images/recipy_image/frozen_onion_rings.jpg",
+      "image": "images/recipy_image/frozen_onion_rings.jpeg",
       "serves": 4,
       "tags": [
         "onion",
@@ -7718,7 +7718,7 @@
         "hi": "कटी हुई ज़ुकीनी"
       },
       "section": "veg",
-      "image": "images/recipy_image/sliced_courgettes.jpg",
+      "image": "images/recipy_image/sliced_courgettes.jpeg",
       "serves": 4,
       "tags": [
         "courgette",
@@ -7772,7 +7772,7 @@
         "hi": "फ्रोजन प्रॉन्स"
       },
       "section": "snacks",
-      "image": "images/recipy_image/frozen_prawns.jpg",
+      "image": "images/recipy_image/frozen_prawns.jpeg",
       "serves": 4,
       "tags": [
         "prawns",
@@ -7819,7 +7819,7 @@
         "hi": "फिश कटलेट"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/fish_cutlets.jpg",
+      "image": "images/recipy_image/fish_cutlets.jpeg",
       "serves": 4,
       "tags": [
         "fish",
@@ -7866,7 +7866,7 @@
         "hi": "फ्राइड स्क्विड"
       },
       "section": "continental",
-      "image": "images/recipy_image/fried_squid.jpg",
+      "image": "images/recipy_image/fried_squid.jpeg",
       "serves": 4,
       "tags": [
         "squid",
@@ -7913,7 +7913,7 @@
         "hi": "फ्रोजन चिकन नगेट्स"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/frozen_chicken_nuggets.jpg",
+      "image": "images/recipy_image/frozen_chicken_nuggets.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -7960,7 +7960,7 @@
         "hi": "चिकन ड्रमस्टिक्स"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_drumsticks.jpg",
+      "image": "images/recipy_image/chicken_drumsticks.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -8012,7 +8012,7 @@
         "hi": "चिकन विंग्स"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_wings.jpg",
+      "image": "images/recipy_image/chicken_wings.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -8064,7 +8064,7 @@
         "hi": "टमाटर सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/tomato_soup.jpg",
+      "image": "images/recipy_image/tomato_soup.jpeg",
       "serves": 4,
       "tags": [
         "tomato",
@@ -8142,7 +8142,7 @@
         "hi": "मशरूम सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/mushroom_soup.jpg",
+      "image": "images/recipy_image/mushroom_soup.jpeg",
       "serves": 4,
       "tags": [
         "mushroom",
@@ -8214,7 +8214,7 @@
         "hi": "टॉम यम सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/tom_yum_soup.jpg",
+      "image": "images/recipy_image/tom_yum_soup.jpeg",
       "serves": 4,
       "tags": [
         "thai",
@@ -8285,7 +8285,7 @@
         "hi": "गार्लिक ब्रेड"
       },
       "section": "snacks",
-      "image": "images/recipy_image/garlic_bread.jpg",
+      "image": "images/recipy_image/garlic_bread.jpeg",
       "serves": 4,
       "tags": [
         "bread",
@@ -8352,7 +8352,7 @@
         "hi": "ढोकला"
       },
       "section": "snacks",
-      "image": "images/recipy_image/dhokla.jpg",
+      "image": "images/recipy_image/dhokla.jpeg",
       "serves": 4,
       "tags": [
         "dhokla",
@@ -8425,7 +8425,7 @@
         "hi": "पोहे"
       },
       "section": "snacks",
-      "image": "images/recipy_image/poha.jpg",
+      "image": "images/recipy_image/poha.jpeg",
       "serves": 4,
       "tags": [
         "poha",
@@ -8501,7 +8501,7 @@
         "hi": "उपमा"
       },
       "section": "snacks",
-      "image": "images/recipy_image/upma.jpg",
+      "image": "images/recipy_image/upma.jpeg",
       "serves": 4,
       "tags": [
         "rava",
@@ -8578,7 +8578,7 @@
         "hi": "चिली हनी वेजिटेबल्स"
       },
       "section": "veg",
-      "image": "images/recipy_image/chili_honey_vegetables.jpg",
+      "image": "images/recipy_image/chili_honey_vegetables.jpeg",
       "serves": 4,
       "tags": [
         "vegetables",
@@ -8638,7 +8638,7 @@
         "hi": "वेजिटेबल पास्ता"
       },
       "section": "veg",
-      "image": "images/recipy_image/vegetable_pasta.jpg",
+      "image": "images/recipy_image/vegetable_pasta.jpeg",
       "serves": 4,
       "tags": [
         "pasta",
@@ -8702,7 +8702,7 @@
         "hi": "मटर पनीर"
       },
       "section": "veg",
-      "image": "images/recipy_image/matar_paneer.jpg",
+      "image": "images/recipy_image/matar_paneer.jpeg",
       "serves": 4,
       "tags": [
         "paneer",
@@ -8780,7 +8780,7 @@
         "hi": "आलू गोभी"
       },
       "section": "veg",
-      "image": "images/recipy_image/aloo_gobi.jpg",
+      "image": "images/recipy_image/aloo_gobi.jpeg",
       "serves": 4,
       "tags": [
         "potato",
@@ -8852,7 +8852,7 @@
         "hi": "कढ़ी पकोड़ा"
       },
       "section": "veg",
-      "image": "images/recipy_image/kadhi_pakoda.jpg",
+      "image": "images/recipy_image/kadhi_pakoda.jpeg",
       "serves": 4,
       "tags": [
         "kadhi",
@@ -8934,7 +8934,7 @@
         "hi": "दाल तड़का"
       },
       "section": "veg",
-      "image": "images/recipy_image/dal_tadka.jpg",
+      "image": "images/recipy_image/dal_tadka.jpeg",
       "serves": 4,
       "tags": [
         "dal",
@@ -9016,7 +9016,7 @@
         "hi": "पालक पनीर"
       },
       "section": "veg",
-      "image": "images/recipy_image/palak_paneer.jpg",
+      "image": "images/recipy_image/palak_paneer.jpeg",
       "serves": 4,
       "tags": [
         "palak",
@@ -9088,7 +9088,7 @@
         "hi": "सांभर"
       },
       "section": "snacks",
-      "image": "images/recipy_image/sambar.jpg",
+      "image": "images/recipy_image/sambar.jpeg",
       "serves": 4,
       "tags": [
         "sambar",
@@ -9168,7 +9168,7 @@
         "hi": "कॉर्न और शिमला मिर्च चावल"
       },
       "section": "rice",
-      "image": "images/recipy_image/corn_shimla_mirch_rice.jpg",
+      "image": "images/recipy_image/corn_shimla_mirch_rice.jpeg",
       "serves": 4,
       "tags": [
         "corn_shimla_mirch_rice",
@@ -9243,7 +9243,7 @@
         "hi": "डोसा सब्जी"
       },
       "section": "veg",
-      "image": "images/recipy_image/dosa_sabji.jpg",
+      "image": "images/recipy_image/dosa_sabji.jpeg",
       "serves": 4,
       "tags": [
         "potato",
@@ -9311,7 +9311,7 @@
         "hi": "वेजिटेबल बिरयानी"
       },
       "section": "rice",
-      "image": "images/recipy_image/vegetable_biryani.jpg",
+      "image": "images/recipy_image/vegetable_biryani.jpeg",
       "serves": 4,
       "tags": [
         "rice",
@@ -9381,7 +9381,7 @@
         "hi": "नींबू चावल"
       },
       "section": "rice",
-      "image": "images/recipy_image/lemon_rice.jpg",
+      "image": "images/recipy_image/lemon_rice.jpeg",
       "serves": 4,
       "tags": [
         "rice",
@@ -9457,7 +9457,7 @@
         "hi": "सूजी हलवा"
       },
       "section": "dessert",
-      "image": "images/recipy_image/suji_halwa.jpg",
+      "image": "images/recipy_image/suji_halwa.jpeg",
       "serves": 4,
       "tags": [
         "dessert",
@@ -9519,7 +9519,7 @@
         "hi": "बेसन लड्डू"
       },
       "section": "dessert",
-      "image": "images/recipy_image/besan_ladoo.jpg",
+      "image": "images/recipy_image/besan_ladoo.jpeg",
       "serves": 4,
       "tags": [
         "dessert",
@@ -9583,7 +9583,7 @@
         "hi": "गाजर का हलवा"
       },
       "section": "dessert",
-      "image": "images/recipy_image/gajar_ka_halwa.jpg",
+      "image": "images/recipy_image/gajar_ka_halwa.jpeg",
       "serves": 4,
       "tags": [
         "dessert",
@@ -9649,7 +9649,7 @@
         "hi": "फिरनी"
       },
       "section": "dessert",
-      "image": "images/recipy_image/phirni.jpg",
+      "image": "images/recipy_image/phirni.jpeg",
       "serves": 4,
       "tags": [
         "dessert",
@@ -9713,7 +9713,7 @@
         "hi": "पनीर टिक्का"
       },
       "section": "snacks",
-      "image": "images/recipy_image/paneer_tikka.jpg",
+      "image": "images/recipy_image/paneer_tikka.jpeg",
       "serves": 4,
       "tags": [
         "paneer",
@@ -9781,7 +9781,7 @@
         "hi": "आलू टिक्का"
       },
       "section": "snacks",
-      "image": "images/recipy_image/aloo_tikka.jpg",
+      "image": "images/recipy_image/aloo_tikka.jpeg",
       "serves": 4,
       "tags": [
         "potato",
@@ -9853,7 +9853,7 @@
         "hi": "तंदूरी गोभी"
       },
       "section": "snacks",
-      "image": "images/recipy_image/tandoori_gobhi.jpg",
+      "image": "images/recipy_image/tandoori_gobhi.jpeg",
       "serves": 4,
       "tags": [
         "gobhi",
@@ -9923,7 +9923,7 @@
         "hi": "वेजिटेबल कबाब"
       },
       "section": "snacks",
-      "image": "images/recipy_image/vegetable_kabab.jpg",
+      "image": "images/recipy_image/vegetable_kabab.jpeg",
       "serves": 4,
       "tags": [
         "kabab",
@@ -10003,7 +10003,7 @@
         "hi": "स्टफ्ड मशरूम"
       },
       "section": "snacks",
-      "image": "images/recipy_image/stuffed_mushroom.jpg",
+      "image": "images/recipy_image/stuffed_mushroom.jpeg",
       "serves": 4,
       "tags": [
         "mushroom",
@@ -10083,7 +10083,7 @@
         "hi": "चीज कटलेट"
       },
       "section": "snacks",
-      "image": "images/recipy_image/cheese_cutlet.jpg",
+      "image": "images/recipy_image/cheese_cutlet.jpeg",
       "serves": 4,
       "tags": [
         "cutlet",
@@ -10155,7 +10155,7 @@
         "hi": "टमाटर बेसिल सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/tomato_basil_soup.jpg",
+      "image": "images/recipy_image/tomato_basil_soup.jpeg",
       "serves": 4,
       "tags": [
         "soup",
@@ -10227,7 +10227,7 @@
         "hi": "वेजिटेबल चाउमीन"
       },
       "section": "rice",
-      "image": "images/recipy_image/vegetable_chowmein.jpg",
+      "image": "images/recipy_image/vegetable_chowmein.jpeg",
       "serves": 4,
       "tags": [
         "noodles",
@@ -10295,7 +10295,7 @@
         "hi": "रिसोट्टो राइस"
       },
       "section": "rice",
-      "image": "images/recipy_image/risotto_rice.jpg",
+      "image": "images/recipy_image/risotto_rice.jpeg",
       "serves": 4,
       "tags": [
         "rice",
@@ -10361,7 +10361,7 @@
         "hi": "बेक्ड वेजिटेबल्स"
       },
       "section": "veg",
-      "image": "images/recipy_image/baked_vegetables.jpg",
+      "image": "images/recipy_image/baked_vegetables.jpeg",
       "serves": 4,
       "tags": [
         "vegetables",
@@ -10429,7 +10429,7 @@
         "hi": "टमाटर और चीज़ सॉस के साथ नूडल्स"
       },
       "section": "rice",
-      "image": "images/recipy_image/noodles_tomato_cheese_sauce.jpg",
+      "image": "images/recipy_image/noodles_tomato_cheese_sauce.jpeg",
       "serves": 4,
       "tags": [
         "noodles",
@@ -10505,7 +10505,7 @@
         "hi": "मकारोनी हॉट पॉट"
       },
       "section": "snacks",
-      "image": "images/recipy_image/macaroni_hot_pot.jpg",
+      "image": "images/recipy_image/macaroni_hot_pot.jpeg",
       "serves": 4,
       "tags": [
         "macaroni",
@@ -10583,7 +10583,7 @@
         "hi": "पास्ता"
       },
       "section": "snacks",
-      "image": "images/recipy_image/creamy_spinach_pasta.jpg",
+      "image": "images/recipy_image/creamy_spinach_pasta.jpeg",
       "serves": 4,
       "tags": [
         "pasta",
@@ -10661,7 +10661,7 @@
         "hi": "कॉर्न और पोटैटो बेक्ड"
       },
       "section": "snacks",
-      "image": "images/recipy_image/corn_potato_baked.jpg",
+      "image": "images/recipy_image/corn_potato_baked.jpeg",
       "serves": 4,
       "tags": [
         "corn",
@@ -10731,7 +10731,7 @@
         "hi": "थाई करी में सब्ज़ियाँ"
       },
       "section": "veg",
-      "image": "images/recipy_image/vegetable_thai_curry.jpg",
+      "image": "images/recipy_image/vegetable_thai_curry.jpeg",
       "serves": 4,
       "tags": [
         "thai",
@@ -10805,7 +10805,7 @@
         "hi": "मशरूम ग्रैटिन"
       },
       "section": "continental",
-      "image": "images/recipy_image/mushroom_gratin.jpg",
+      "image": "images/recipy_image/mushroom_gratin.jpeg",
       "serves": 4,
       "tags": [
         "mushroom",
@@ -10873,7 +10873,7 @@
         "hi": "पेस्टो सॉस पास्ता"
       },
       "section": "snacks",
-      "image": "images/recipy_image/pasta_pesto_sauce.jpg",
+      "image": "images/recipy_image/pasta_pesto_sauce.jpeg",
       "serves": 4,
       "tags": [
         "pasta",
@@ -10947,7 +10947,7 @@
         "hi": "बटर स्पंज केक"
       },
       "section": "dessert",
-      "image": "images/recipy_image/butter_sponge_cake.jpg",
+      "image": "images/recipy_image/butter_sponge_cake.jpeg",
       "serves": 4,
       "tags": [
         "cake",
@@ -11021,7 +11021,7 @@
         "hi": "चॉकलेट केक"
       },
       "section": "dessert",
-      "image": "images/recipy_image/chocolate_cake.jpg",
+      "image": "images/recipy_image/chocolate_cake.jpeg",
       "serves": 4,
       "tags": [
         "chocolate_cake",
@@ -11100,7 +11100,7 @@
         "hi": "बनाना ब्रेड"
       },
       "section": "dessert",
-      "image": "images/recipy_image/banana_bread.jpg",
+      "image": "images/recipy_image/banana_bread.jpeg",
       "serves": 4,
       "tags": [
         "banana",
@@ -11182,7 +11182,7 @@
         "hi": "ब्राउनी"
       },
       "section": "dessert",
-      "image": "images/recipy_image/brownie.jpg",
+      "image": "images/recipy_image/brownie.jpeg",
       "serves": 4,
       "tags": [
         "brownie",
@@ -11268,7 +11268,7 @@
         "hi": "मार्बल केक"
       },
       "section": "dessert",
-      "image": "images/recipy_image/marble_cake.jpg",
+      "image": "images/recipy_image/marble_cake.jpeg",
       "serves": 4,
       "tags": [
         "cake",
@@ -11346,7 +11346,7 @@
         "hi": "नारियल टॉफी"
       },
       "section": "dessert",
-      "image": "images/recipy_image/coconut_toffee.jpg",
+      "image": "images/recipy_image/coconut_toffee.jpeg",
       "serves": 4,
       "tags": [
         "coconut",
@@ -11408,7 +11408,7 @@
         "hi": "जर्मन बिस्किट"
       },
       "section": "dessert",
-      "image": "images/recipy_image/german_biscuits.jpg",
+      "image": "images/recipy_image/german_biscuits.jpeg",
       "serves": 4,
       "tags": [
         "biscuits",
@@ -11478,7 +11478,7 @@
         "hi": "चॉकलेट कुकीज़"
       },
       "section": "dessert",
-      "image": "images/recipy_image/chocolate_cookies.jpg",
+      "image": "images/recipy_image/chocolate_cookies.jpeg",
       "serves": 4,
       "tags": [
         "cookies",
@@ -11550,7 +11550,7 @@
         "hi": "बादाम पिस्ता कुकीज़"
       },
       "section": "dessert",
-      "image": "images/recipy_image/almond_pistachio_cookies.jpg",
+      "image": "images/recipy_image/almond_pistachio_cookies.jpeg",
       "serves": 4,
       "tags": [
         "cookies",
@@ -11631,7 +11631,7 @@
         "hi": "केसर नानखटाई"
       },
       "section": "dessert",
-      "image": "images/recipy_image/kesar_nankatai.jpg",
+      "image": "images/recipy_image/kesar_nankatai.jpeg",
       "serves": 4,
       "tags": [
         "cookies",
@@ -11714,7 +11714,7 @@
         "hi": "चिकन शोरबा"
       },
       "section": "soup",
-      "image": "images/recipy_image/chicken_shorba.jpg",
+      "image": "images/recipy_image/chicken_shorba.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -11786,7 +11786,7 @@
         "hi": "चिकन सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/chicken_soup.jpg",
+      "image": "images/recipy_image/chicken_soup.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -11848,7 +11848,7 @@
         "hi": "क्रैब सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/crab_soup.jpg",
+      "image": "images/recipy_image/crab_soup.jpeg",
       "serves": 4,
       "tags": [
         "crab",
@@ -11910,7 +11910,7 @@
         "hi": "चिकन मंचो सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/chicken_manchow_soup.jpg",
+      "image": "images/recipy_image/chicken_manchow_soup.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -11978,7 +11978,7 @@
         "hi": "मटन सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/mutton_soup.jpg",
+      "image": "images/recipy_image/mutton_soup.jpeg",
       "serves": 4,
       "tags": [
         "mutton",
@@ -12040,7 +12040,7 @@
         "hi": "हर्ब चिकन सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/herb_chicken_soup.jpg",
+      "image": "images/recipy_image/herb_chicken_soup.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12114,7 +12114,7 @@
         "hi": "टॉम यम चिकन सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/tom_yum_chicken_soup.jpg",
+      "image": "images/recipy_image/tom_yum_chicken_soup.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12181,7 +12181,7 @@
         "hi": "फिश पेपर"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/fish_pepper.jpg",
+      "image": "images/recipy_image/fish_pepper.jpeg",
       "serves": 4,
       "tags": [
         "fish",
@@ -12249,7 +12249,7 @@
         "hi": "लेमन चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/lemon_chicken.jpg",
+      "image": "images/recipy_image/lemon_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12319,7 +12319,7 @@
         "hi": "कीमा बॉल"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/kheema_ball.jpg",
+      "image": "images/recipy_image/kheema_ball.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12387,7 +12387,7 @@
         "hi": "चिली चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chili_chicken.jpg",
+      "image": "images/recipy_image/chili_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12467,7 +12467,7 @@
         "hi": "जिंजर चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/ginger_chicken.jpg",
+      "image": "images/recipy_image/ginger_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12541,7 +12541,7 @@
         "hi": "शेज़वान चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/schezwan_chicken.jpg",
+      "image": "images/recipy_image/schezwan_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12624,7 +12624,7 @@
         "hi": "चिकन हांगकांग"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_hong_kong.jpg",
+      "image": "images/recipy_image/chicken_hong_kong.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12701,7 +12701,7 @@
         "hi": "मिर्ची चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/mirchi_chicken.jpg",
+      "image": "images/recipy_image/mirchi_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12778,7 +12778,7 @@
         "hi": "बटर चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/butter_chicken.jpg",
+      "image": "images/recipy_image/butter_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12867,7 +12867,7 @@
         "hi": "चिकन और मशरूम टमाटर के साथ"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_mushroom_with_tomato.jpg",
+      "image": "images/recipy_image/chicken_mushroom_with_tomato.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -12948,7 +12948,7 @@
         "hi": "चिकन जालफ्रेजी"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_jalfreji.jpg",
+      "image": "images/recipy_image/chicken_jalfreji.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -13029,7 +13029,7 @@
         "hi": "दही चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/yogurt_chicken.jpg",
+      "image": "images/recipy_image/yogurt_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -13110,7 +13110,7 @@
         "hi": "ग्रीन चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/green_chicken.jpg",
+      "image": "images/recipy_image/green_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -13187,7 +13187,7 @@
         "hi": "कढ़ाई चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/kadhai_chicken.jpg",
+      "image": "images/recipy_image/kadhai_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -13268,7 +13268,7 @@
         "hi": "हैदराबादी चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/hyderabadi_chicken.jpg",
+      "image": "images/recipy_image/hyderabadi_chicken.jpeg",
       "serves": 4,
       "tags": [
         "chicken",
@@ -13365,7 +13365,7 @@
         "hi": "रोस्टेड प्रॉन्स"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/roasted_prawns.jpg",
+      "image": "images/recipy_image/roasted_prawns.jpeg",
       "serves": 4,
       "tags": [
         "prawns",
@@ -13446,7 +13446,7 @@
         "hi": "फिश टिक्का"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/fish_tikka.jpg",
+      "image": "images/recipy_image/fish_tikka.jpeg",
       "serves": 4,
       "tags": [
         "fish_tikka",
@@ -13525,7 +13525,7 @@
         "hi": "गोअन फिश कबाब"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/goanese_fish_kabab.jpg",
+      "image": "images/recipy_image/goanese_fish_kabab.jpeg",
       "serves": 4,
       "tags": [
         "goanese_fish_kabab",
@@ -13602,7 +13602,7 @@
         "hi": "नारियल फिश कबाब"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/coconut_fish_kabab.jpg",
+      "image": "images/recipy_image/coconut_fish_kabab.jpeg",
       "serves": 4,
       "tags": [
         "coconut_fish_kabab",
@@ -13675,7 +13675,7 @@
         "hi": "चिकन मलाई कबाब"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_malai_kabab.jpg",
+      "image": "images/recipy_image/chicken_malai_kabab.jpeg",
       "serves": 4,
       "tags": [
         "chicken_malai_kabab",
@@ -13748,7 +13748,7 @@
         "hi": "चिकन कीमा कटलेट"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_kheema_cutlet.jpg",
+      "image": "images/recipy_image/chicken_kheema_cutlet.jpeg",
       "serves": 4,
       "tags": [
         "chicken_kheema_cutlet",
@@ -13825,7 +13825,7 @@
         "hi": "तिल वाला चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/sesame_chicken.jpg",
+      "image": "images/recipy_image/sesame_chicken.jpeg",
       "serves": 4,
       "tags": [
         "sesame_chicken",
@@ -13904,7 +13904,7 @@
         "hi": "तंदूरी मटन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/tandoori_mutton.jpg",
+      "image": "images/recipy_image/tandoori_mutton.jpeg",
       "serves": 4,
       "tags": [
         "tandoori_mutton",
@@ -13987,7 +13987,7 @@
         "hi": "फिश टिक्का अचारी"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/fish_tikka_achari.jpg",
+      "image": "images/recipy_image/fish_tikka_achari.jpeg",
       "serves": 4,
       "tags": [
         "fish_tikka_achari",
@@ -14068,7 +14068,7 @@
         "hi": "चिकन अ ला कीव"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_a_la_kiev.jpg",
+      "image": "images/recipy_image/chicken_a_la_kiev.jpeg",
       "serves": 4,
       "tags": [
         "chicken_a_la_kiev",
@@ -14147,7 +14147,7 @@
         "hi": "चिकन और मशरूम ग्रैटिन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_mushroom_gratin.jpg",
+      "image": "images/recipy_image/chicken_mushroom_gratin.jpeg",
       "serves": 4,
       "tags": [
         "chicken_mushroom_gratin",
@@ -14224,7 +14224,7 @@
         "hi": "मीट लोफ"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/meat_loaf.jpg",
+      "image": "images/recipy_image/meat_loaf.jpeg",
       "serves": 4,
       "tags": [
         "meat_loaf",
@@ -14313,7 +14313,7 @@
         "hi": "थाई चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/thai_chicken.jpg",
+      "image": "images/recipy_image/thai_chicken.jpeg",
       "serves": 4,
       "tags": [
         "thai_chicken",
@@ -14390,7 +14390,7 @@
         "hi": "कीमा पुलाव"
       },
       "section": "rice",
-      "image": "images/recipy_image/keema_pulav.jpg",
+      "image": "images/recipy_image/keema_pulav.jpeg",
       "serves": 4,
       "tags": [
         "keema_pulav",
@@ -14471,7 +14471,7 @@
         "hi": "मीठा और खट्टा सब्जियों के साथ चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_sweet_sour_vegetables.jpg",
+      "image": "images/recipy_image/chicken_sweet_sour_vegetables.jpeg",
       "serves": 4,
       "tags": [
         "chicken_sweet_sour",
@@ -14564,7 +14564,7 @@
         "hi": "थाई रेड करी चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_thai_red_curry.jpg",
+      "image": "images/recipy_image/chicken_thai_red_curry.jpeg",
       "serves": 4,
       "tags": [
         "chicken_thai_red_curry",
@@ -14661,7 +14661,7 @@
         "hi": "हॉट गार्लिक सॉस में चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_hot_garlic_sauce.jpg",
+      "image": "images/recipy_image/chicken_hot_garlic_sauce.jpeg",
       "serves": 4,
       "tags": [
         "chicken_hot_garlic_sauce",
@@ -14748,7 +14748,7 @@
         "hi": "टमाटर चावल के साथ चिकन"
       },
       "section": "rice",
-      "image": "images/recipy_image/chicken_tomato_rice.jpg",
+      "image": "images/recipy_image/chicken_tomato_rice.jpeg",
       "serves": 4,
       "tags": [
         "chicken_tomato_rice",
@@ -14835,7 +14835,7 @@
         "hi": "क्रिस्पी चिकन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/crispy_chicken.jpg",
+      "image": "images/recipy_image/crispy_chicken.jpeg",
       "serves": 4,
       "tags": [
         "crispy_chicken",
@@ -14918,7 +14918,7 @@
         "hi": "नान बादामी"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/naan_badami.jpg",
+      "image": "images/recipy_image/naan_badami.jpeg",
       "serves": 4,
       "tags": [
         "naan_badami",
@@ -14997,7 +14997,7 @@
         "hi": "मटन टेट्राज़िनी"
       },
       "section": "continental",
-      "image": "images/recipy_image/mutton_tetrazini.jpg",
+      "image": "images/recipy_image/mutton_tetrazini.jpeg",
       "serves": 4,
       "tags": [
         "mutton_tetrazini",
@@ -15084,7 +15084,7 @@
         "hi": "मटन मिर्ची"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/mutton_mirchi.jpg",
+      "image": "images/recipy_image/mutton_mirchi.jpeg",
       "serves": 4,
       "tags": [
         "mutton_mirchi",
@@ -15177,7 +15177,7 @@
         "hi": "बॉम्बे प्रॉन"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/bombay_prawn.jpg",
+      "image": "images/recipy_image/bombay_prawn.jpeg",
       "serves": 4,
       "tags": [
         "bombay_prawn",
@@ -15260,7 +15260,7 @@
         "hi": "चिकन विंदालू"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/chicken_vindaloo.jpg",
+      "image": "images/recipy_image/chicken_vindaloo.jpeg",
       "serves": 4,
       "tags": [
         "chicken_vindaloo",
@@ -15341,7 +15341,7 @@
         "hi": "दम चिकन काली मिर्च"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/dum_chicken_kali_mirch.jpg",
+      "image": "images/recipy_image/dum_chicken_kali_mirch.jpeg",
       "serves": 4,
       "tags": [
         "dum_chicken_kali_mirch",
@@ -15422,7 +15422,7 @@
         "hi": "बादामी तंगड़ी"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/badami_tangri.jpg",
+      "image": "images/recipy_image/badami_tangri.jpeg",
       "serves": 4,
       "tags": [
         "badami_tangri",
@@ -15509,7 +15509,7 @@
         "hi": "चिकन हॉट एंड सॉर सूप"
       },
       "section": "soup",
-      "image": "images/recipy_image/chicken_hot_sour_soup.jpg",
+      "image": "images/recipy_image/chicken_hot_sour_soup.jpeg",
       "serves": 4,
       "tags": [
         "chicken_hot_sour_soup",
@@ -15594,7 +15594,7 @@
         "hi": "शेज़वान प्रॉन्स"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/schezwan_prawns.jpg",
+      "image": "images/recipy_image/schezwan_prawns.jpeg",
       "serves": 4,
       "tags": [
         "schezwan_prawns",
@@ -15683,7 +15683,7 @@
         "hi": "दही"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/curd_yogurt.jpg",
+      "image": "images/recipy_image/curd_yogurt.jpeg",
       "serves": 5,
       "tags": [
         "curd",
@@ -15742,7 +15742,7 @@
         "hi": "मिट्टी के बर्तन में दही"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/curd_clay_pots.jpg",
+      "image": "images/recipy_image/curd_clay_pots.jpeg",
       "serves": 5,
       "tags": [
         "curd_clay_pots",
@@ -15801,7 +15801,7 @@
         "hi": "पिज़्ज़ा डो"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/pizza_dough_proof.jpg",
+      "image": "images/recipy_image/pizza_dough_proof.jpeg",
       "serves": 4,
       "tags": [
         "pizza_dough",
@@ -15852,7 +15852,7 @@
         "hi": "केक का आटा"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/cake_dough_proof.jpg",
+      "image": "images/recipy_image/cake_dough_proof.jpeg",
       "serves": 4,
       "tags": [
         "cake_dough",
@@ -15903,7 +15903,7 @@
         "hi": "ब्रेड का आटा"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/bread_dough_proof.jpg",
+      "image": "images/recipy_image/bread_dough_proof.jpeg",
       "serves": 4,
       "tags": [
         "bread_dough",
@@ -15954,7 +15954,7 @@
         "hi": "मीट डीफ्रॉस्ट"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/power_defrost_meat.jpg",
+      "image": "images/recipy_image/power_defrost_meat.jpeg",
       "serves": 4,
       "tags": [
         "power_defrost_meat",
@@ -16011,7 +16011,7 @@
         "hi": "पोल्ट्री डीफ्रॉस्ट"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/power_defrost_poultry.jpg",
+      "image": "images/recipy_image/power_defrost_poultry.jpeg",
       "serves": 4,
       "tags": [
         "power_defrost_poultry",
@@ -16068,7 +16068,7 @@
         "hi": "मछली डीफ्रॉस्ट"
       },
       "section": "non_veg",
-      "image": "images/recipy_image/power_defrost_fish.jpg",
+      "image": "images/recipy_image/power_defrost_fish.jpeg",
       "serves": 4,
       "tags": [
         "power_defrost_fish",
@@ -16125,7 +16125,7 @@
         "hi": "ब्रेड/केक डीफ्रॉस्ट"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/power_defrost_bread_cake.jpg",
+      "image": "images/recipy_image/power_defrost_bread_cake.jpeg",
       "serves": 4,
       "tags": [
         "power_defrost_bread_cake",
@@ -16182,7 +16182,7 @@
         "hi": "फ्रूट डीफ्रॉस्ट"
       },
       "section": "dessert",
-      "image": "images/recipy_image/power_defrost_fruit.jpg",
+      "image": "images/recipy_image/power_defrost_fruit.jpeg",
       "serves": 4,
       "tags": [
         "power_defrost_fruit",
@@ -16237,7 +16237,7 @@
         "hi": "रोटी"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/roti.jpg",
+      "image": "images/recipy_image/roti.jpeg",
       "serves": 4,
       "tags": [
         "roti",
@@ -16304,7 +16304,7 @@
         "hi": "नान"
       },
       "section": "dough/curd",
-      "image": "images/recipy_image/naan.jpg",
+      "image": "images/recipy_image/naan.jpeg",
       "serves": 4,
       "tags": [
         "naan",

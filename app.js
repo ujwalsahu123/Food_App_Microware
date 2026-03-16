@@ -41,21 +41,34 @@ function initApp() {
     initRouter();
 }
 
+let scrollPosition = 0;
+
+function lockBodyScroll() {
+    scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
+    document.body.style.setProperty('--scroll-y', `-${scrollPosition}px`);
+    document.body.classList.add('sidebar-open');
+}
+
+function unlockBodyScroll() {
+    document.body.classList.remove('sidebar-open');
+    document.body.style.removeProperty('--scroll-y');
+    window.scrollTo(0, scrollPosition);
+}
+
 // Toggle sidebar
 function toggleSidebar() {
     const sidebar = document.getElementById('sidebar');
     const overlay = document.getElementById('overlay');
-    const body = document.body;
 
     const open = !sidebar.classList.contains('hidden');
     if (open) {
         sidebar.classList.add('hidden');
         overlay.classList.add('hidden');
-        body.classList.remove('sidebar-open');
+        unlockBodyScroll();
     } else {
         sidebar.classList.remove('hidden');
         overlay.classList.remove('hidden');
-        body.classList.add('sidebar-open');
+        lockBodyScroll();
     }
 }
 
@@ -65,7 +78,7 @@ function closeSidebar() {
     const overlay = document.getElementById('overlay');
     sidebar.classList.add('hidden');
     overlay.classList.add('hidden');
-    document.body.classList.remove('sidebar-open');
+    unlockBodyScroll();
 }
 
 // Handle search

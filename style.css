@@ -6,6 +6,7 @@
 }
 
 html, body {
+    height: 100%;
     overflow-x: hidden;
 }
 
@@ -17,7 +18,14 @@ body {
 }
 
 body.sidebar-open {
+    /* Lock the background in place while the sidebar is open */
+    position: fixed;
+    width: 100%;
+    top: var(--scroll-y);
+    left: 0;
+    right: 0;
     overflow: hidden;
+    overscroll-behavior: none;
 }
 
 /* Header */
@@ -83,6 +91,8 @@ aside {
     background-color: #fce4ec;
     border-right: 1px solid #f8bbd9;
     overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
     transform: translateX(-100%);
     transition: transform 0.3s ease;
     z-index: 200;

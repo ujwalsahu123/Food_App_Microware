@@ -1,6 +1,6 @@
 ﻿# Microwave Recipe Web App
 
-Food-Recipe-App-For-Samsung-Microwave-MC28H5025
+Food Recipe App For Samsung Microwave MC28H5025
 
 During the recent **Iran–Israel conflict**, global energy supply was disrupted and it started affecting cooking gas availability in many places. Since a large portion of LPG comes through the Middle East, disruptions around the **Strait of Hormuz and regional energy infrastructure** can impact gas prices and supply worldwide.
 

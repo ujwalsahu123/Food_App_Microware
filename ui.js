@@ -2,7 +2,7 @@
 function renderSections() {
     window.scrollTo(0, 0);
     const main = document.getElementById('main-content');
-    main.innerHTML = '<h1>Sections</h1><div class="grid" id="sections-grid"></div>';
+    main.innerHTML = '<div class="grid" id="sections-grid"></div>';
 
     const grid = document.getElementById('sections-grid');
     appState.sections.sections.forEach(section => {
@@ -25,7 +25,7 @@ function renderSections() {
 function renderRecipeList(recipes) {
     window.scrollTo(0, 0);
     const main = document.getElementById('main-content');
-    main.innerHTML = '<h1>Recipes</h1><div class="grid" id="recipes-grid"></div>';
+    main.innerHTML = '<div class="grid" id="recipes-grid"></div>';
 
     const grid = document.getElementById('recipes-grid');
     recipes.forEach(recipe => {
